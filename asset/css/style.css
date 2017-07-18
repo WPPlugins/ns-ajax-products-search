@@ -1,0 +1,202 @@
+.ns-productsearch-form{
+    text-align: center;
+}
+
+.ns-productsearch-input-container{
+    margin-bottom: 0.5em;
+}
+
+.ns-productsearch-screen-reader-text {
+    font-size: 1.275em;
+    color: #4d4d4d;
+    cursor: pointer;
+    display: block;
+    font-weight: 500;
+
+    margin-bottom: 1.1875em;
+}
+
+.ns-productsearch-input-search{
+    width: 100% !important;
+    padding: 10px !important;
+}
+
+.ns-productsearch-product-list-id-free{
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.ns-productsearch-searchsubmit-free{
+    margin-bottom: 1em;
+}
+
+.ns-productsearch-searchsubmit-widget-free{
+    margin-bottom: 1em;
+}
+
+.ns-productsearch-close-div-free{
+
+}
+
+a.ns-productsearch-boxclose-free{
+    float:right !important;
+    margin-top: 0px !important;
+    margin-right: 10px !important;
+    margin-bottom: 10px !important;
+    margin: 0 0 10px 10px !important;
+    cursor:pointer !important;
+    color: #fff !important;
+    border: 1px solid #AEAEAE !important;
+    border-radius: 9px !important;
+    background: #605F61 !important;
+    font-size: 17px !important;
+    font-weight: bold !important;
+    display: inline-block !important;
+    line-height: 0px !important;
+    padding: 9px 4px !important;
+    text-decoration: none !important;
+}
+
+a.ns-productsearch-boxclose-free:hover{
+    background: #e2e2e2 !important;
+    text-decoration: none !important;
+}
+.ns-productsearch-boxclose-free:before {
+    content: "×";
+}
+
+.ns-productsearch-table-fill{
+    background: white;
+    border-radius:3px;
+    border-collapse: collapse;
+    margin: auto;
+    max-width: 100%;
+    padding:5px;
+    width: 100%;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+    animation: float 5s infinite;
+}
+
+.ns-productsearch-text-center{
+    text-align: center;
+}
+
+.ns-productsearch-td-text-left{
+    text-align: left;
+    padding: 1.5625em 2em !important;
+    font-size: 1em;
+}
+
+.ns-productsearch-th-text-left{
+    text-align: left;
+    padding: 0.5625em 1em !important;
+    font-size: 1em;
+}
+
+.ns-productsearch-link-product{
+    text-decoration: none !important;
+    font-weight: normal !important;
+    /*color: #7c7235 !important;*/
+    color: #333333 !important;
+    text-shadow: none !important;
+}
+
+.ns-productsearch-thead-tr{
+    border-top: 1px solid #C1C3D1;
+    border-bottom-: 1px solid #C1C3D1;
+    color:#666B85;
+    font-size:16px;
+    font-weight:normal;
+    text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);
+}
+
+.ns-productsearch-thead-th{
+    color: #343a45;
+    background: #ffffff;
+    border-bottom:4px solid #9ea7af;
+    border-right: 1px solid #343a45;
+    /*font-size:23px;*/
+    font-size:14px;
+    font-weight: 100;
+    padding:24px;
+    text-align:left;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+    vertical-align:middle;
+}
+
+.ns-productsearch-thead-th:first-child {
+    border-top-left-radius:3px;
+}
+
+.ns-productsearch-thead-th:last-child {
+    border-top-right-radius:3px;
+    border-right:none;
+}
+
+.ns-productsearch-table .ns-productsearch-thead-tr .ns-productsearch-tbody-tr .ns-productsearch-tbody-td{
+    padding: 1.1625em 1em !important;
+    font-size: 1em !important;
+}
+
+.ns-productsearch-tbody-tr{
+    border-top: 1px solid #C1C3D1;
+    border-bottom-: 1px solid #C1C3D1;
+    color:#666B85;
+    font-size:16px;
+    font-weight:normal;
+    text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);
+}
+
+.ns-productsearch-tbody-tr:hover .ns-productsearch-tbody-td {
+    color:#22262e;
+    border-top: none;
+    border-bottom: none;
+    background: #e2e2e2;
+}
+
+.ns-productsearch-tbody-tr:first-child {
+    border-top:none;
+}
+
+.ns-productsearch-tbody-tr:last-child {
+    border-bottom:none;
+}
+
+.ns-productsearch-tbody-tr:nth-child(odd) .ns-productsearch-tbody-td {
+    background:#EBEBEB;
+}
+
+.ns-productsearch-tbody-tr:nth-child(odd):hover .ns-productsearch-tbody-td {
+    background: #cccccc;
+}
+
+.ns-productsearch-tbody-tr:last-child .ns-productsearch-tbody-td:first-child {
+    border-bottom-left-radius:3px;
+}
+
+.ns-productsearch-tbody-tr:last-child .ns-productsearch-tbody-td:last-child {
+    border-bottom-right-radius:3px;
+}
+
+.ns-productsearch-tbody-td{
+    background:#FFFFFF;
+    padding:20px;
+    text-align:left;
+    vertical-align:middle;
+    font-weight:300;
+    font-size:18px;
+    text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1);
+    border-right: 1px solid #C1C3D1;
+}
+
+.ns-productsearch-tbody-td:last-child {
+    border-right: 0px;
+}
+
+#ns_s_free{
+    margin-bottom: 15px;
+}
+
+
+
